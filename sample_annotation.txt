@@ -1,0 +1,17 @@
+	Genotype	Celltype	Reporter	Mouse_ID	Sample
+P19404_1018_S18_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	pos	107	1
+P19404_1019_S19_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	neg	107	1
+P19404_1020_S20_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	pos	108	1
+P19404_1021_S21_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	neg	108	1
+P19404_1022_S22_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	pos	131	2
+P19404_1023_S23_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	neg	131	2
+P19404_1024_S24_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	pos	132	3
+P19404_1025_S25_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	neg	132	3
+P19404_1026_S26_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	pos	133	2
+P19404_1027_S27_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	neg	133	2
+P19404_1028_S28_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	pos	134	3
+P19404_1029_S29_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	neg	134	3
+P19404_1030_S30_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	pos	135	4
+P19404_1031_S31_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Ko	Epithelial	neg	135	4
+P19404_1032_S32_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	pos	136	4
+P19404_1033_S33_L001_R1_001_Aligned.sortedByCoord.out.bam_sorted	Het	Epithelial	neg	136	4
