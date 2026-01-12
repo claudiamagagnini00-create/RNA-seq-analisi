@@ -1,5 +1,5 @@
 # RNA-SEQ analisi
-cellule progenitrici Troy-positive nell'epitelio esofageo di topo  
+Analisi dell'espressione genica di cellule progenitrici Troy-positive nell'epitelio esofageo di topo  
 
 Descrizione:
 Studio sul ruolo delle cellule progenitrici Troy-positive nell’epitelio esofageo. Analisi RNA-seq di cellule isolate da topo per identificare geni differenzialmente espressi e pathway funzionali. Troy regola negativamente proliferazione, differenziazione, metabolismo mitocondriale e sintesi proteica.
